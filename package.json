@@ -1,0 +1,19 @@
+{
+  "name": "swarm",
+  "version": "0.0.1",
+  "description": "Package to swarm with requests websites, creating unhandlable overloads via Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilverTracer/swarm.git"
+  },
+  "author": "SilverTracer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilverTracer/swarm/issues"
+  },
+  "homepage": "https://github.com/SilverTracer/swarm#readme"
+}
